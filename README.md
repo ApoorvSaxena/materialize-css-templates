@@ -2,14 +2,14 @@
 
 Best open source responsive website / web app / dashboard templates customized to use *materialize.css*
 
-![Text only template](http://localhost:3000/assets/templates/text-only.jpg)
-#### Text Only template [\(preview\)]()
+![Text only template](https://raw.githubusercontent.com/ApoorvSaxena/materialize-css-templates/master/assets/templates/text-only.jpg)
+#### Text Only template [\(preview\)](https://rawgit.com/ApoorvSaxena/materialize-css-templates/master/text-only/index.html)
 
-![Article template](http://localhost:3000/assets/templates/article.jpg)
-#### Article template [\(preview\)]()
+![Article template](https://raw.githubusercontent.com/ApoorvSaxena/materialize-css-templates/master/assets/templates/article.jpg)
+#### Article template [\(preview\)](https://rawgit.com/ApoorvSaxena/materialize-css-templates/master/article/index.html)
 
-![Dashboard template](http://localhost:3000/assets/templates/dashboard.jpg)
-#### [WIP] Dashboard template [\(preview\)]()
+![Dashboard template](https://raw.githubusercontent.com/ApoorvSaxena/materialize-css-templates/master/assets/templates/dashboard.jpg)
+#### [WIP] Dashboard template [\(preview\)](https://rawgit.com/ApoorvSaxena/materialize-css-templates/master/dashboard/index.html)
 
 #### Want to contribute?
 
