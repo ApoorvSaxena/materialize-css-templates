@@ -1,0 +1,10 @@
+{
+  "name": "materialize-css-templates",
+  "version": "1.0.0",
+  "description": "Open Source templates for Materialize CSS",
+  "author": "Apoorv Saxena",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "materialize-css": "^0.97.6"
+  }
+}
